@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+}
+
+.Asia {
+    color: red;
+}
+
+.Africa {
+    color: blue;
+}
+
+.America {
+    color: green;
+}
+
+.Europe {
+    color: yellow;
+}
+
+.Oceania {
+    color: purple;
+}
